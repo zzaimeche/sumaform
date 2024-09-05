@@ -50,8 +50,7 @@ module "server" {
   // runtime = "k3s"
 
   // To override the default container repository containing the images
-  // container_repository = "registry.opensuse.org/systemsmanagement/uyuni/master/servercontainer/containers/uyuni"
-
+  // container_repository = "registry.opensuse.org/systemsmanagement/uyuni/master/containers"
   // To define a specific container image tag to install
   // container_tag = 
 
